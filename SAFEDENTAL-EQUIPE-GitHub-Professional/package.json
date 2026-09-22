@@ -1,0 +1,9 @@
+{
+  "name": "safedental-equipe",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "check": "node scripts/check-no-localstorage.mjs"
+  },
+  "description": "SAFEDENTAL EQUIPE — professional dental-supply storefront and private dashboard"
+}
